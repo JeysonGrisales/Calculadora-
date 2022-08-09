@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* body {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #c54444;
+    color: #ffffff;
+} */
+/* header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(40deg, #000, #ffffff, #000);
+    width: 100vw;
+    height: 20vh;
+    /* margin: 1%; */
+/* } */
+
+main {
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+    /* justify-content: center; */
+    background: url(./img/Calculadora.jpg);
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    /* margin: 1%; */
+}
+
+main h1{
+    font-size: 8rem ;
+    color: #080808;
+    margin-right: 15rem;
+    margin-top: 2rem;
+}
+
+main label{
+    font-size: 80px ;
+    color: #080808;
+    margin-right: 14rem;
+    margin-top: 10rem;
+}
+
+
+input{
+    text-align: center;
+    /* margin: 30px; */
+    border-width: 5px;
+    width: 15vw;
+    height: 10vh;
+    margin-right: 9rem;
+    margin-top: 3rem;
+    border-radius: 5px;
+}
+
+    /* #color{
+        background: linear-gradient(40deg, #ffffff, #000, #ffffff);
+        width: 5vw;
+        height: 5vh;
+    }
+
+
+
+    #nota1{
+        border-radius: 4px;
+    }
+
+
+    #nota2{
+        border-radius: 4px;
+    } */
+
+main div{
+    margin-top: 3rem;
+    margin-right: 10rem;
+    text-align: center;
+    color: #000;
+    font-size: 20px;
+}
+
+/* label {
+    color: black;
+    margin: 8px;
+} */
+
+/* footer{
+    text-align: center;
+    background: linear-gradient(40deg, #000, #ffffff, #000);
+    width: 100vw;
+    height: 26vh;
+} */
+
+button{
+    font-size: 1.5rem;
+    border-radius: 5px;
+    border-width: 10px;
+    background-color: #000;
+    color: #ffffff;
+    width: auto;
+    height: 50px;
+    margin:5px ; 
+    margin-left: 0.5rem;
+}
+
+/* #btnHonor {
+    font-size: 1.5rem;
+    border-radius: 5px;
+    margin: auto;
+    border-width: 10px;
+    background-color: #000;
+    color: #ffffff;
+    width: 180px;
+    height: 50px;
+    /* margin:30px; */
+/* }
+
+
+#btnGanar {
+    font-size: 1.5rem;
+    border-radius: 5px;
+    margin: auto;
+    border-width: 10px;
+    background-color: #000;
+    color: #ffffff;
+    width: 180px;
+    height: 50px;
+    margin:30px;
+}
+#btnRecuperar {
+    font-size: 1.5rem;
+    border-radius: 5px;
+    margin: auto;
+    border-width: 10px;
+    background-color: #000;
+    color: #ffffff;
+    width: 220px;
+    height: 50px;
+    margin:30px;
+} */ 
